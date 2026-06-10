@@ -18,8 +18,7 @@ public class ListViewFragment extends Fragment {
 
     private ListView listView;
 
-    public ListViewFragment() {
-    }
+    public ListViewFragment() {}
 
     @Override
     public View onCreateView(
